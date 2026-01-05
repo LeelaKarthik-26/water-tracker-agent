@@ -2,7 +2,7 @@
 
 A full-stack hydration assistant that logs daily water intake, stores history, and uses an LLM to generate personalized feedback in real time.
 
-![Water Tracker AI dashboard](assets/water-tracker-dashboard.png)
+![Water Tracker AI dashboard](assets/water_tracker_agent.png)
 
 ## Why this project stands out
 - Combines a clean Streamlit UX with an AI feedback loop so the user gets instant, actionable insights.
