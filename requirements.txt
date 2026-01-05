@@ -3,3 +3,4 @@ langchain_openai
 python_dotenv
 fastapi
 uvicorn
+streamlit
